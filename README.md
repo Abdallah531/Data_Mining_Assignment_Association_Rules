@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This tool implements association rule mining algorithms to analyze transaction data from a bakery dataset. The program allows users to discover frequent item sets and strong association rules based on their specified minimum support count and minimum confidence level.
+This repository contains an implementation of association rule mining algorithms to analyze transaction data from a bakery dataset. The program allows users to discover frequent item sets and strong association rules based on their specified minimum support count and minimum confidence level.
 
 ## Problem Description
 
